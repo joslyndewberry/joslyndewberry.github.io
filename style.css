@@ -21,3 +21,12 @@
     background-color: #ddd;
     color: black;
 }
+
+#about {
+    float: left;
+    width: 1461px;
+    height: 500px;
+    padding: 10px;
+    margin: 5px;
+    background-color: white
+}
